@@ -1,4 +1,4 @@
-# 유종훈 (Yoojonghun)
+# 유종훈 (Yu Jonghun)
 > **Full-Stack Developer** | jh42089@naver.com
 
 다년간의 Full Stack 개발 경험을 보유하고 있으며, 특히 Backend(PHP, NodeJS) 및 데이터베이스 설계와 처리에 높은 숙련도를 갖추고 있습니다. 웹 프론트엔드 태동기부터 현대적인 프레임워크(React, Next.js)까지 폭넓은 기술 스택을 실무에 적용해 왔습니다.
@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack
 
 - **Frontend**: Javascript (ReactJS, Next.js), HTML/CSS, jQuery
-- **Backend**: PHP (Codeigniter, Wordpress), Javascript (NodeJS, NestJS), C++
+- **Backend**: PHP (Codeigniter, Wordpress), Javascript (NodeJS, NestJS)
 - **Database**: MySQL, Oracle
 - **Cloud/Infra**: AWS, CI/CD (Github, Gitlab)
 - **Other**: GraphQL (Apollo Server), TypeScript
