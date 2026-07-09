@@ -17,7 +17,7 @@
 
 ## 💼 Work Experience
 
-### 퍼퓸그라피(주) | 2022.04 ~ 현재
+### 퍼퓸그라피(주) | 2022.04 ~ 2026.05
 **핵심 역할: 자사 서비스 유지보수 및 개발 인프라 최적화**
 - **AI 기반 개발 프로세스 혁신**: Gemini 및 Claude 등 LLM을 활용한 코드 최적화, 자동화 스크립트 작성 및 생산성 극대화
 - **사내 NAS 인프라 구축 및 운영**: Synology/Linux 기반 NAS에 Gitea(Self-hosted Git), Git-runner(CI/CD), VPN, n8n(워크플로우 자동화) 등을 설치 및 운용하여 독자적인 개발 환경 구축
